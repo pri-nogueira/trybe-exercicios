@@ -1,0 +1,27 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 3em;
+    color: orange;
+}
+.lista {
+    background-color: gray;
+    font-style: italic;
+    text-decoration: underline;
+}
+.paragrafo{
+    background-color: greenyellow;
+    font-weight: bold;
+}
+body {
+        font-size: 16px;
+        text-align: center;
+}
+#amarelo {
+    background-color: yellow;
+}
+#vermelho {
+    background-color: red;
+}
+#marrom {
+    background-color: maroon;
+}
