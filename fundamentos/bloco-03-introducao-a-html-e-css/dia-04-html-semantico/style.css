@@ -1,0 +1,83 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+  }
+h1 {
+  color: white;
+  padding-top: 40px;
+  padding-left: 20px;
+}
+h2, h3 {
+    margin: 0 0 20px;
+  }
+  p {
+    margin-bottom: 5px;
+  }
+body {
+    background-color: rgb(164, 209, 164);
+}
+header {
+  color: white;
+  background-color: black;
+  background-size: cover;
+}
+.navigation {
+  background-color: black;
+  padding: 0 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.navigation ul {
+  padding: 10px 0;
+}
+.navigation li {
+  margin-right: 60px;
+  list-style-type: none;
+  display: inline;
+}
+.navigation li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.content {
+  margin: auto;
+  flex-grow: 1;
+  margin-top: 20px;
+  width: 100%;
+  padding-left: 50px;
+  position: absolute;
+}
+.main-content {
+  width: 66%;
+  display: inline-block;
+  padding-left: 200px;
+}
+.article, .article-small {
+  margin-right: 5px;
+  padding: 55px;
+  text-align: center;
+  border: 2px solid; 
+}
+.content .final {
+  width: 100%;
+  background-color: black;
+  height: 10vh;
+  font-size: 10px;
+  padding-top: 20px;
+  color: white;
+  text-align: center;
+}
+table {
+  border: 0.5px solid;
+}
+td {
+  border: 1px solid;
+}
