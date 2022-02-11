@@ -23,7 +23,7 @@ for (let index = 0; index < numbers.length; index +=1) {
         maior = numbers[index]; 
     }
 }
-//console.log(maior)
+console.log(maior)
 
 //
 let par =[]
