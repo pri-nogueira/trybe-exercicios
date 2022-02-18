@@ -6,42 +6,65 @@
 body{
     padding: 5%;
     line-height: 25px;
-    text-align: center;
+    display: inline-block;
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(41, 26, 29);
-    background-color: black;
+    color: #fff;
+    background-image: linear-gradient(45deg, #0dccff, #4760ff) ;
+    text-align: center;
+    margin-left: 300px;
 }
 header{
     padding: 15px;
     text-align: center;
 }
 #container{
+    width: 550px;
     text-align: left;
     padding: 40px;
-    background: rgb(79, 54, 102);
+    background: #000000;
+    border-radius: 80px;
 }
 #line-division{
-    margin-top: 10px;
+    margin-top: 15px;
+    align-items: center;
 }
 .btn{
     padding: 10px;
     margin: 15px;
+    border: 2px solid #000b2eb2;
+    border-radius: 16px;
+    background-color: black;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #1f1e1e;
+    cursor: pointer;
 }
 .opcoes{
     margin: 15px;
+    outline: none;
 }
 #input-nome{
-    background-color: rgb(182, 182, 
-    182);
-    border: 2px solid rgb(41, 26, 29);;
+    background-color: rgb(46, 43, 43);
+    border: 2px solid #000b2eb2;
     padding: 10px;
     padding-left: 100px;
+    border-radius: 16px;
 }
 #input-email{
-    background-color: rgb(182, 182, 
-    182);
-    border: 2px solid rgb(41, 26, 29);;
+    background-color: rgb(46, 43, 43);
+    border: 2px solid #000b2eb2;
     padding: 10px;
     padding-left: 100px;
+    border-radius: 16px;
+}
+#txt-area{
+    padding: 10px;
+    background-color: rgb(46, 43, 43);
+    resize: none;
+    border-radius: 5px;
+}
+#txt-area:hover{
+    background-color: #1f1e1e;
 }
