@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header><h1>Formulário para concorrer a uma viagem</h1></header>
+    <form action="" method="get">
+        <div id="container">
+            <!-- Nome Completo -->
+            <div id="line-division">
+                <label for="input-nome">Nome Completo</label>
+                <input type="text" name="texto" id="input-nome" maxlength="40">
+            </div>
+            <!-- Email -->
+            <div id="line-division">
+                <label for="input-email">Email</label>
+                <input type="email" name="email" id="input-email" maxlength="50">
+            </div>
+            <!-- Destino preferido -->
+            <div id="line-division">
+                <label for="cidade">
+                    <input type="radio" name="radio" id="cidade" class="opcoes">Cidade</label>
+                <label for="campo">
+                    <input type="radio" name="radio" id="campo" class="opcoes">Campo</label>
+                <label for="praia">
+                    <input type="radio" name="radio" id="praia" class="opcoes">Praia</label>
+                <label for="montanha">
+                    <input type="radio" name="radio" id="montanha" class="opcoes">Montanha</label>
+            </div>
+            <div id="line-division">
+                <p>Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso TrybeTrip?</p>
+                <textarea name="text-area" id="txt-area" maxlength="500" cols="30" rows="10" placeholder="Digite a sua resposta..."></textarea>
+            </div>
+            <div id="line-division">
+                <p>Qual a melhor data para realizar sua viagem?</p>
+                <label for="input-data">Data:</label>
+                <input type="date" name="data" id="input-data">
+            </div>
+            <div id="line-division">
+                <p></p>
+                <label for="checkbox-noticias"><input type="checkbox" name="oportunidades" id="checkbox-noticias">Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe?</label>
+            </div>
+            <div id="line-division">
+                <!-- Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.-->
+            </div>
+            <div id="line-division">
+                <!-- Botões-->
+                <button type="submit" class="btn">Enviar</button>
+                <button type="reset" class="btn">Apagar</button>
+            </div>
+        </div>
+    </form>
+</body>
+
+</html>
