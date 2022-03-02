@@ -158,3 +158,5 @@ for (let number = 2; number <= numberToCheck; number += 1) {
 
 if (divisors === 2) console.log(numberToCheck + ' é primo');
 else console.log(numberToCheck + ' não é primo');
+
+//////////
