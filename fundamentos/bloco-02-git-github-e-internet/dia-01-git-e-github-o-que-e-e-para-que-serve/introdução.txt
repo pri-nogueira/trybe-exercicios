@@ -1,0 +1,2 @@
+Entender como funciona e colocar em prática o Git em seus projetos é crucial no dia a dia de quem trabalha com desenvolvimento de software. O Git é o mecanismo de controle de versão mais popular e, por consequência, a chance de você trabalhar com ele é bem alta.
+Utilizando o Git , você e seu time vão conseguir colaborar de forma assíncrona e harmoniosa, ganhando produtividade no momento de "juntar as partes" que cada um fez e tendo segurança de que todo o trabalho realizado está salvo. 
