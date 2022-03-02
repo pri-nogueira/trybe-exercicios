@@ -59,6 +59,7 @@ Para os ângulos serem de um triângulo válido, a soma dos três deve ser 180 g
 ***
 **11 - Uma pessoa que trabalha de carteira assinada no Brasil tem descontados de seu salário bruto o INSS e o IR. Faça um programa que, dado um salário bruto, calcule o líquido a ser recebido.**
 * A notação para um salário de R$1500,10, por exemplo, deve ser 1500.10. Para as faixas de impostos, use as seguintes referências:
+
 **INSS**
 * Salário bruto até R$ 1.556,94: alíquota de 8%
 
