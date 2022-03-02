@@ -17,7 +17,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 2.2 - Git & GitHub - Entendendo os comandos
 - [x] 2.3 - Internet - Entendendo como ela funciona
 
-##### Bloco 3: [Introdução à HTML e CSS]()
+##### Bloco 3: [Introdução à HTML e CSS](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/bloco-03-introducao-a-html-e-css)
 - [x] 3.1 - Introdução - HTML & CSS
 - [x] 3.1 - HTML & CSS - Estruturas de página
 - [x] 3.2 - HTML & CSS - Primeiros passos em CSS
@@ -25,7 +25,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.4 - HTML Semântico
 - [x] 3.5 - Projeto - Lessons Learned
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
 - [x] 4.1 - Introdução - JavaScript
 - [x] 4.1 - JavaScript - Primeiros passos
 - [x] 4.2 - JavaScript - Array e loop For
@@ -33,7 +33,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 4.4 - JavaScript - Objetos e funções
 - [x] 4.5 - Projeto - Playground Functions
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
 - [x] 5.1 - JavaScript - DOM e seletores
 - [x] 5.2 - JavaScript - Trabalhando com elementos
 - [x] 5.3 - JavaScript - Eventos
