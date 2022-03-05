@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h3>JavaScript Click Counter</h3>
+    <div>
+        <span id="counter-label"></span>
+    </div>
+    <button id="btn_test">Clique</button>
+</body>
+<script>
+    // Exercicio 3
+let clickCount = 0;
+let btn = document.getElementById('btn_test');
+let label = document.getElementById('counter-label');
+
+btn.addEventListener('click', () => label.innerHTML = clickCount += 1);
+</script>
+
+</html>
