@@ -63,7 +63,8 @@ const books = [
 
   // Adicione o código do exercício aqui:
 //7 - Encontre o nome do livro escrito pela pessoa cujo nome registrado começa com três iniciais.
-// Procura pra mim o primeiro elemento(find) divididas pelo filtro '.'(filter) e verifica se a string termina com '.' (endsWith), sendo seu comptimento igual a 3
-const authorWith3DotsOnName = books.find((elemento) => elemento.author.name.split(' ').filter((word) => word.endsWith('.')).length === 3)
+
+// Procura pra mim o primeiro elemento(find) divididas pelo filtro '.'(filter) e verifica se a string termina com '.' (endsWith), sendo seu comptimento igual a 3 e retorna somento o nome do livro(.name)
+const authorWith3DotsOnName = books.find((elemento) => elemento.author.name.split(' ').filter((word) => word.endsWith('.')).length === 3).name
 
 console.log(authorWith3DotsOnName);
