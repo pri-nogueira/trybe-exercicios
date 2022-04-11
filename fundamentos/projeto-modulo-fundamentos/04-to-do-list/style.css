@@ -1,0 +1,93 @@
+body{
+    background-color: black ;
+    color: #fff;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+header{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-size: 50px;
+    text-align: center;
+}
+#funcionamento{
+    font-size: 14px;
+}
+#conteudo{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 650px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #2b2a2a;
+    padding: 75px;
+    border-radius: 12px;
+}
+#topo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+#topo input{
+    width: 450px;
+    padding: 15px;
+    border-radius: 12px;
+    border: 2px solid #163341;
+    outline: none;
+    font-size: 16px;
+    background-color: #191818;
+    color: #fff;
+}
+#topo button{
+    width: 45px;
+    border-radius: 12px;
+    border: 2px solid #163341;
+    outline: none;
+    font-size: 16px;
+    background-color: #191818;
+    color: #fff;
+}
+#topo button:hover{
+    background-color: #1f1e1e;
+    cursor: pointer;
+}
+#lista-tarefas{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#lista-tarefas li{
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    margin-top: 10px;
+}
+#btns{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 35px;
+}
+#btns button{
+    width: 100px;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 12px;
+    border: 2px solid #163341;
+    outline: none;
+    font-size: 14px;
+    background-color: #191818;
+    color: #fff;
+    align-items: center;
+}
+#btns button:hover{
+    background-color: #1f1e1e;
+    cursor: pointer;
+}
+.set{ 
+    background-color: rgb(128, 128, 128);
+}
+.completed {
+    text-decoration: line-through solid rgb(0, 0, 0);
+}

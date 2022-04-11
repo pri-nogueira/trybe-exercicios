@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100px;
+  padding: 10px;
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+}
+
+.header img {
+  width: 60px;
+}
+
+#trybewarts-header-title {
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+}
+
+.trybewarts-login input {
+  padding: 10px;
+  border: 5px;
+  border-radius: 8px;
+}
+
+#btn {
+  width: 150px;
+  padding: 10px;
+  border: 5px;
+  border-radius: 8px;
+  background-color: rgb(80, 29, 128);
+  color: white;
+}
+
+/* Requisito 5: defini as classes main-container e form-container como display: flex */
+.main-container {
+  display: flex;
+  padding: 30px;
+  margin-left: 80px;
+}
+
+/* Requisito 6: o flex-direction de form-container foi definido como column */
+.form-container {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+.form-container h1 {
+  text-align: center;
+}
+
+/* Requisito 7: o height da imagem da logo foi definido em 500px */
+.main-container img {
+  height: 500px;
+}
+
+/* 10. Posicione os campos de Nome e Sobrenome para que fiquem em linha */
+#input-name , #input-lastname {
+  flex-direction: row;
+  width: 315px;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+/* 11. Posicione os campos de Email e Casa para que fiquem em linha */
+#input-email , #house {
+  width: 315px;
+  padding: 15px;
+}
+
+#house {
+  width: 275px;
+}
+
+/* 12-Radio buttons para ficar abaixo um do outro */
+.input-radio {
+  display: flex;
+  flex-direction: column;
+  align-content: space-around;
+}
+
+/* Requisito 13: checkboxes abaixo da label */
+.label-content-container {
+  display: flex;
+  flex-flow: column;
+  align-content: space-around;
+}
+
+#label-content {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Requisito 14: radio buttons lado a lado e à direita da label */
+.label-rate-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 10px;
+  line-height: 25px;
+}
+
+#textarea-container {
+  display: flex;
+  flex-direction: column;
+}
+
+#submit-btn {
+  margin-top: 10px;
+  padding: 10px;
+  border: 5px;
+  border-radius: 8px;
+  background-color: rgb(80, 29, 128);
+  color: white;
+}
+
+hr {
+  margin-top: 10px;
+}

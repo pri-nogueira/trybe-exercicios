@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
+    <title>Tarefas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>Minha Lista de Tarefas</header>
+    <section id="conteudo">
+        <p id="funcionamento">Clique duas vezes em um item para marcá-lo como completo
+        </p>
+        <section id="topo">
+            <input type="text" id="texto-tarefa" placeholder="Adicione uma nova tarefa">
+            <button id="criar-tarefa">
+                <i class="fa fa-plus"></i>
+            </button>
+        </section>
+        <ol id="lista-tarefas"></ol>
+        <section id="btns">
+            <button id="remover-selecionado">
+                <i class="fa fa-remove"> Remover Selecionado</i>
+            </button>
+            <button id="remover-finalizados">
+                <i class="fa fa-remove"> Remover Finalizados</i>
+            </button>
+            <button id="apaga-tudo">
+                <i class="	fa fa-trash-o"> Apagar Tudo</i>
+            </button>
+            <button id="mover-cima">
+                <i class="fa fa-caret-square-o-up"></i>
+            </button>
+            <button id="mover-baixo">
+                <i class="fa fa-caret-square-o-down"></i>
+            </button>
+            <button id="salvar-tarefas">
+                <i class="fa fa-check-square-o"> Salvar</i>
+            </button>
+        </section>
+    </section>
+    <script src="script.js"></script>
+</body>
+
+</html>
