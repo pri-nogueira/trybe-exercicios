@@ -20,22 +20,22 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 3.2 - _HTML & CSS - Primeiros passos em CSS_
 - [x] 3.3 - _HTML & CSS - Seletores e posicionamento_
 - [x] 3.4 - _HTML Semântico_
-- [x] 3.5 - [Projeto - Lessons Learned]()
+- [x] 3.5 - [Projeto - Lessons Learned](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/01-lessons-learned)
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [x] 4.1 - _JavaScript - Primeiros passos_
 - [x] 4.2 - _JavaScript - Array e loop For_
 - [x] 4.3 - _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4.4 - _JavaScript - Objetos e funções_
-- [x] 4.5 - [Projeto - Playground Functions]()
+- [x] 4.5 - [Projeto - Playground Functions](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/02-playground-functions)
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [x] 5.1 - _JavaScript - DOM e seletores_
 - [x] 5.2 - _JavaScript - Trabalhando com elementos_
 - [x] 5.3 - _JavaScript - Eventos_
 - [x] 5.4 - _JavaScript - Web Storage_
-- [x] 5.5 - [Projeto - Arte com Pixels]()
-- [x] 5.6 - [Projeto - Lista de tarefas]()
+- [x] 5.5 - [Projeto - Arte com Pixels](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/03-pixels-art)
+- [x] 5.6 - [Projeto - Lista de tarefas](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/04-to-do-list)
 - [x] 5.7 - [(Bônus) Projeto - Meme Generator]()
 - [x] 5.7 - [(Bônus) Projeto - Adivinhe a Cor]()
 - [x] 5.7 - [(Bônus) Projeto - Carta Misteriosa]()
@@ -46,27 +46,27 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [x] 6.3 - _CSS Flexbox - Parte 1_
 - [x] 6.4 - _CSS Flexbox - Parte 2_
 - [x] 6.5 - _CSS Responsivo - Mobile First_
-- [x] 6.6 - [Projeto - Trybewarts]()
+- [x] 6.6 - [Projeto - Trybewarts](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/05-trybewars)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 - [x] 7.1 - _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7.2 - _JavaScript ES6 - Objects_
 - [x] 7.3 - _Testes unitários em JavaScript_
-- [x] 7.4 - [Projeto - JavaScript Testes Unitários]()
+- [x] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/06-js-unit-test)
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 - [x] 8.1 - _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
 - [x] 8.2 - _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8.3 - _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8.4 - _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [x] 8.5 - _Projeto - Zoo functions_
+- [x] 8.5 - _[Projeto - Zoo functions](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/07-zoo-functions)_
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Assíncrono - FETCH API e async/await_
 - [x] 9-3: _Jest - Testes Assíncronos_
-- [x] 9-4: _[Projeto - Carrinho de Compras]()_
+- [x] 9-4: _[Projeto - Carrinho de Compras](https://github.com/pri-nogueira/trybe-exercicios/tree/master/fundamentos/projeto-modulo-fundamentos/08-Shopping-Cart)_
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
